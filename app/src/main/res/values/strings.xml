@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">nCovCheck</string>
+    <string name="end_time">截止时间:</string>
+    <string name="china_map">疫情地图</string>
+    <string name="trend_chart">全国疫情趋势</string>
+    <string name="area">地区</string>
+    <string name="current_confirmed_count">现存确诊</string>
+    <string name="confirmed_count">累计确诊</string>
+    <string name="dead_count">死亡</string>
+    <string name="cured_count">治愈</string>
+    <string name="rumor_distinguish">谣言鉴别--></string>
+    <string name="recent_news">实时播报--></string>
+</resources>
