@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">nCovCheck</string>
+    <string name="app_name">新冠肺炎疫情查询</string>
     <string name="end_time">截止时间:</string>
     <string name="china_map">疫情地图</string>
     <string name="trend_chart">全国疫情趋势</string>
